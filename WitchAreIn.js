@@ -58,7 +58,7 @@
 // function inArray(arr1,arr2){
 //     return arr1.filter(function(elementOfArr1){
 //         return arr2.some(function(elementOfArr2){
-//             return elementOfArr2.match(elementOfArr1);
+//             return element OfArr2.match(elementOfArr1);
 //         })
 //     })
 // }
